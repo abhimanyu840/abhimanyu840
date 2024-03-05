@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu840&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu840" /> </p>
+
 - 🔭 I’m currently working on **Amazon Clone**
 
-- 🌱 I’m currently learning **Express js**
+- 🌱 I’m currently learning **Backend Development form PW skills**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
+
+- 👨‍💻 All of my projects are available at [https://abhimanyukumarportfolio.netlify.app/projects](https://abhimanyukumarportfolio.netlify.app/projects)
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Express Js, Node.js Mern Stack**
 
